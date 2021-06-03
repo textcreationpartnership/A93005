@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Several speeches at Guild-Hall for the Kings comming to London, and the day appointed. A list of the dukes, earles, and lords met at Kingston, and others come to them, and of their going from thence. Two chests of armes, and 60. Pistols taken. And a new commission for Maj. Generall Skippon. Also a great fight at Colchester, a hundred prisoners taken, and two pieces of ordnance, and a list of the prisoners taken in the north.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93005</idno><idno type="EEBO-CITATION">99864687</idno>
+  <idno type="VID">161938</idno>
+  <idno type="EEBO-PROQUEST">2240905384</idno>
+  
+            <idno type="STC">Wing S2811</idno>
+            <idno type="STC">Thomason E451_24</idno>
+            <idno type="STC">ESTC R205270</idno>
+            <idno type="PROQUEST">99864687</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864687e"/>
+            <note>(EEBO-TCP ; phase 2, no. A93005)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161938)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E451[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Several speeches at Guild-Hall for the Kings comming to London, and the day appointed. A list of the dukes, earles, and lords met at Kingston, and others come to them, and of their going from thence. Two chests of armes, and 60. Pistols taken. And a new commission for Maj. Generall Skippon. Also a great fight at Colchester, a hundred prisoners taken, and two pieces of ordnance, and a list of the prisoners taken in the north.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B.A.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLVIII [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Annotation on Thomason copy: "July 7th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Colchester (England) --  History --  Siege, 1648 --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161938:1"/>
+            <p>SEVERALL SPEECHES AT GUILD-HALL FOR The KINGS comming to <hi>London,</hi> and the Day appointed.</p>
+            <p>A List of the Dukes, Earles, and Lords met at <hi>Kingston,</hi> and others come to them, and of their going from thence. Two Chests of Armes▪ and 60. Pistols taken. And a new Commission for Maj. Generall <hi>Skippon.</hi>
+            </p>
+            <p>Also a great Fight at <hi>Colchester,</hi> a hundred prisoners ta<g ref="char:EOLhyphen"/>ken, and two pieces of Ordnance, and a List of the prisoners taken in the North.</p>
+            <figure>
+               <figDesc>royal blazon or coat of arms</figDesc>
+               <head>C R</head>
+            </figure>
+            <p>LONDON▪ Printed by <hi>B. A.</hi> MDCXLVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161938:2"/>
+            <pb facs="tcp:161938:2"/>
+            <head>The whole RELATION OF The Cities proceedings about bringing the King to <hi>London,</hi> and the day appointed.</head>
+            <p>
+               <hi>THe Lord Mayor and Common-Councell sitting at Guild-Hall the 4. of this instant</hi> July, <hi>about the Military affairs, a Petition was presented unto them for their approbation, and to desire them to present it to the Honourable Houses of Parliament, in the name of the Field-Officers, Captains, and other Commissionate Offi<g ref="char:EOLhyphen"/>cers of the City of</hi> London, <hi>which being openly read, they apprehended the same to be of great concernment, tending to the honour and safety of the King, the preservation of the Parliament, the settlement of the peace and welfare of the Kingdom; and thereupon they thought to present the same▪ to the Parliament, which Petition followeth in these words.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <pb facs="tcp:161938:3"/>
+                        <head>
+                           <hi>The humble</hi> Petition <hi>of the Field-Officers, Captains, and their Commission-Officers of the Trayned Bands of the City of</hi> London, <hi>and Liberties thereof.</hi>
+                        </head>
+                        <opener>She<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>h,</opener>
+                        <p>THat out of the deep sense of the sad Miseries that lie upon these Kingdomes, the only visible remedy whereof (under God) we conceive to be a personall Treaty with his Majesty; Which happy worke wee <gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ear is like to be retarded, if not frustrated, by feares and jealousies suggested if it should be here in <hi>London</hi> (which is so much desired) That in stead of setling peace▪ it might involve us all in bloud, by tumults that might be raised by persons driving on their owne De<g ref="char:EOLhyphen"/>signs and interests.</p>
+                        <p>We think our selves bound in Duty for promoting so desirable a Work, so much as in us lieth, to offer our service with our lives and fortunes to the utmost to defend his Majesties Royall person, and this Parlia<g ref="char:EOLhyphen"/>ment from all violence whatsoever, that they may meet and treat with freedome, honour, and safety, ac<g ref="char:EOLhyphen"/>cording to the antient fundamentall Constitutions of this Kingdome; and that whosoever shall by Tumults, Mutinies, Insurrections, or otherwise, interrupt or force the honour, freedom, and safety of the King or Parlia<g ref="char:EOLhyphen"/>ment;
+<pb facs="tcp:161938:3"/> We, and all under our Commands shall bee ready as one man to live and dye in defence of the <hi>King</hi> and Parliament, according to our covenant.</p>
+                        <p n="1">1. Wherefore we humbly pray, that for our enablement the<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>eunto▪ the Militia of the city of <hi>London,</hi> and adjacent parts, may be setled in one Committee: And if in your wisdomes you shall thinke fit, to joyne some persons of the p<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>rts adjacent to the Grand Committee, they may be such as have no places of profit which depend upon the continuance of the War, and our troubles, or have shewed them<g ref="char:EOLhyphen"/>selves disaffected to the ends of the Cove<g ref="char:EOLhyphen"/>nant.</p>
+                        <p n="2">2. That the King may be brought to <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> with freedome, honour, and safety, to treat with his Parliament, for the setling of a safe and well-grounded peace.</p>
+                        <p n="3">3. That the Militia may have power to raise Horse, if need be, fo<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> the defence of the King, Parliament, and City.</p>
+                        <closer>And we shall ever pray, &amp;c.</closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="response_to_petition">
+                        <pb facs="tcp:161938:4"/>
+                        <opener>
+                           <dateline>
+                              <date>
+                                 <hi>Die Mercurij, 5. Iunij,</hi> 1648.</date>
+                           </dateline>
+                        </opener>
+                        <p>THe Lords have commanded me to let you know, that they have considered of the Petitions this day rendred by you unto them. They had of themselves made some progresse in those thing<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> mentioned there<g ref="char:EOLhyphen"/>in; and they do now delare unto you, that they have thought fit to grant your desires in all the particulars contained in the Petitions, in confidence that the City City of London, will be carefull to make good their great engagement now made for the preserving and se<g ref="char:EOLhyphen"/>curing of his Majesties person, and the Parliament from tumults, mutinies, or insurrections, or ot her dis<g ref="char:EOLhyphen"/>orders that may interrupt, the honour, freedom or fafty of the King or Parliament, and they cannot, but, that they will still adhere to live and die in defence of the King and Parliament according to their covenant.</p>
+                        <closer>
+                           <signed>Jo: Brown</signed> Cler. Parl.</closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="response_to_petition">
+                        <opener>
+                           <dateline>
+                              <date>
+                                 <hi>Die Mercurij, 5. Iunij,</hi> 1648.</date>
+                           </dateline>
+                        </opener>
+                        <p>The Petitioners by command of the house were cal<g ref="char:EOLhyphen"/>led in Mr, Speaker by cōmand of the house gave them this answer The house have read your Petition, &amp; the Pe<g ref="char:EOLunhyphen"/>tition annexed; and they have agreed to the joyning the Militia's. The other matters contained in the Petitions are of great concernment, and have taken up much de<g ref="char:EOLhyphen"/>bate and they have apointed another day to take up the debate, and have apo<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nted a Committee to confer with the Common-councell of the City of London, and such as they shal appoint; and with the Commanders of the Souldiers in London about the s<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>me; wherewith the House desires you to acquaint the Lor<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Maior, that a Common councell may be called to morrow at two of the clock in the afternoon, for a conference therup<g ref="char:EOLhyphen"/>on accordingly</p>
+                        <closer>
+                           <signed>H. Elsynge,</signed> Cler. Parl. D. Com.</closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb facs="tcp:161938:4"/>
+            <p>The 5. of July intelligence was brought to West<g ref="char:EOLhyphen"/>minster, of a great meeting at <hi>Kingston,</hi> many went down the last night by water, and others on horseback those which had not horses, endeavoured to furnish themselves, and made bold with Gentlemens horses they met withall upon the Road. Two chests of Arms 60 case of Pistols, and other furniture for horse, were taken going downe to them. There was said to be the Duke of <hi>Buckingham,</hi> the E. of <hi>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>edford,</hi> and divers o<g ref="char:EOLhyphen"/>thers of eminency.</p>
+            <p>The Lord Gen. having notice of this meeting, hath sent a party of about 1000. horse, to know the cause of such a gathering together, &amp;c. And the Parl. voted that M. G <hi>Skippon</hi> should have power to lead &amp; co<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>duct all Volunteers of horse and foot to any place b<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>yond the late Line of Communication and as occasio<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> is, to kill &amp; slay all persons which shall be gathere<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> together in any place to disturbe the peace of the Pa<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>liament and City.</p>
+            <p>Letters of certain intelligence were read in the house out of the North from M. G. <hi>Lambert,</hi> which gave an account of a very great Victory which he hath obtai<g ref="char:EOLhyphen"/>ned against sir <hi>Marmaduke Langdale,</hi> the List of what taken being as followeth.</p>
+            <list>
+               <item>600 <hi>Horse.</hi>
+               </item>
+               <item>300. <hi>Foot.</hi>
+               </item>
+               <item>2 <hi>Knights.</hi>
+               </item>
+               <item>2 <hi>Colonels.</hi>
+               </item>
+               <item>4 <hi>Lieut. Colonels and Ma<g ref="char:EOLhyphen"/>jors.</hi>
+               </item>
+               <item>8. <hi>Captains.</hi>
+               </item>
+               <item>30. <hi>Other Officers.</hi>
+               </item>
+               <item>1000. <hi>Armes.</hi>
+               </item>
+               <item>
+                  <hi>And good store of booty which they had taken from the Country.</hi>
+               </item>
+            </list>
+            <pb facs="tcp:161938:5"/>
+            <p>The sixth of this instant July a Committee of Lords and Commons as <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> mentioned in the answer to the City Petition came to Guil<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>-hall where was a Com<g ref="char:EOLhyphen"/>mon-councell in which were made severall speeches whereby the City endeavoured to explain themselves in perticulars expressed in their petition and proposed cer<g ref="char:EOLhyphen"/>tain waies to make good the same in such a way as may be fo<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the safety of his Majesties person and pre<g ref="char:EOLhyphen"/>servation of the Parliament according to the covenant and the Committe of Lords and Commons endeavou<g ref="char:EOLhyphen"/>red to preserve a good understanding with the City up<g ref="char:EOLhyphen"/>on the particulars expressed and for the time of the treaty to begin, the sence of the house is not to have it delayed and 3 weeks is to be the farthest time if things are agreed on when they are reported to the house which will be to morrow next and then it is probable it may be sooner.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="imprimatur">
+                        <p>Imprimatur</p>
+                        <closer>
+                           <signed>G. M.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
